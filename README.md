@@ -1,12 +1,12 @@
-## Practical Exercise: Scientific Text Classification with the Naive-Bayes Algorithm
+# Practical Exercise: Scientific Text Classification with the Naive-Bayes Algorithm
 
-### Context: 
+## Context: 
 You are working as a data analyst for the biomedicine and biotechnology company "BioSyn", where the most cutting-edge research in these fields is conducted. Your team has gathered data on the most important publications in the cancer research area from the past two years to find patterns in the documents for quick identification and documentation within the company’s databases.
 
-### The Challenge:
+## The Challenge:
 Use this dataset to design a classification method that allows classifying the large volume of scientific articles into the different cancer types studied and improve the organization and distribution of knowledge within the company.
 
-### Objective:
+## Objective:
 Based on the provided dataset (Source: https://www.kaggle.com/datasets/falgunipatel19/biomedical-text-publication-classification), your task is to classify each record according to the three considered cancer types: thyroid cancer, colon cancer, and lung cancer. The categorization must be based on an exploratory data analysis and feature extraction from raw text.
 
 ---
